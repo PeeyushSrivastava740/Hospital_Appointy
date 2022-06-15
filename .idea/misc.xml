@@ -3,6 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/vision/AndroidStudioProjects/Hospital-Appointy-Android/app/src/main/res/font/audiowide.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/Hospital-Appointy-Android/app/src/main/res/layout/activity_login.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/Hospital-Appointy-Android/app/src/main/res/layout/activity_main.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/Hospital-Appointy-Android/app/src/main/res/layout/activity_splash.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/Hospital-Appointy-Android/app/src/main/res/layout/app_bar_layout.xml" value="0.1" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/Hospital-Appointy-Android/app/src/main/res/layout/fragment_date.xml" value="0.1" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/Hospital-Appointy-Android/app/src/main/res/layout/fragment_specialization.xml" value="0.1" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/Hospital-Appointy-Android/app/src/main/res/layout/header_menu.xml" value="0.1" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/Hospital-Appointy-Android/app/src/main/res/menu/menu_navigation.xml" value="0.1765625" />
         <entry key="app/src/main/res/layout/activity_doctor_profile.xml" value="0.32135416666666666" />
         <entry key="app/src/main/res/layout/activity_edit_doctor_profile.xml" value="0.32135416666666666" />
         <entry key="app/src/main/res/layout/activity_feedback.xml" value="0.32135416666666666" />

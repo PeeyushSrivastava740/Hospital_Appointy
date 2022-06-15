@@ -60,7 +60,7 @@
                 android:layout_marginTop="20dp"
                 android:orientation="horizontal">
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time1"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -82,9 +82,10 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView
+                    xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time2"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -106,9 +107,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time3"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -129,7 +130,7 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
 
             </LinearLayout>
@@ -140,7 +141,7 @@
                 android:layout_marginTop="20dp"
                 android:orientation="horizontal">
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time4"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -162,9 +163,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time5"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -186,9 +187,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time6"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -209,7 +210,7 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
 
             </LinearLayout>
@@ -220,7 +221,8 @@
                 android:layout_marginTop="20dp"
                 android:orientation="horizontal">
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView
+                    xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time7"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -242,9 +244,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time8"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -266,9 +268,10 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView
+                    xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time9"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -289,7 +292,7 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
             </LinearLayout>
 
@@ -299,7 +302,7 @@
                 android:layout_marginTop="20dp"
                 android:orientation="horizontal">
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time10"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -321,9 +324,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time11"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -345,9 +348,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time12"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -368,7 +371,7 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
             </LinearLayout>
 
@@ -378,7 +381,7 @@
                 android:layout_marginTop="20dp"
                 android:orientation="horizontal">
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time13"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -400,9 +403,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time14"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -424,9 +427,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time15"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -447,7 +450,7 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
             </LinearLayout>
         </LinearLayout>
@@ -465,7 +468,7 @@
                 android:layout_marginTop="20dp"
                 android:orientation="horizontal">
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time16"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -487,9 +490,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time17"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -511,9 +514,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time18"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -534,7 +537,7 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
 
             </LinearLayout>
@@ -545,7 +548,7 @@
                 android:layout_marginTop="20dp"
                 android:orientation="horizontal">
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time19"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -567,9 +570,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time20"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -591,9 +594,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time21"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -614,7 +617,7 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
 
             </LinearLayout>
@@ -625,7 +628,7 @@
                 android:layout_marginTop="20dp"
                 android:orientation="horizontal">
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time22"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -647,9 +650,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time23"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -671,9 +674,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time24"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -694,7 +697,7 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
             </LinearLayout>
 
@@ -704,7 +707,7 @@
                 android:layout_marginTop="20dp"
                 android:orientation="horizontal">
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time25"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -726,9 +729,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time26"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -750,9 +753,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time27"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -773,7 +776,7 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
             </LinearLayout>
 
@@ -783,7 +786,7 @@
                 android:layout_marginTop="20dp"
                 android:orientation="horizontal">
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time28"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -805,9 +808,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time29"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -829,9 +832,9 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
-                <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/time30"
                     android:layout_width="0dp"
                     android:layout_height="40dp"
@@ -852,7 +855,7 @@
                         android:textColor="#ffffff"
                         android:textStyle="bold" />
 
-                </android.support.v7.widget.CardView>
+                </androidx.cardview.widget.CardView>
 
             </LinearLayout>
         </LinearLayout>

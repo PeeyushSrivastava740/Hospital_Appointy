@@ -1,9 +1,8 @@
 package com.example.aman.hospitalappointy.home;
 
-
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentPagerAdapter;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentManager;
+import androidx.fragment.app.FragmentPagerAdapter;
 
 import com.example.aman.hospitalappointy.home.fragments.DateFragment;
 import com.example.aman.hospitalappointy.home.fragments.DoctorFragment;
@@ -13,7 +12,7 @@ import com.example.aman.hospitalappointy.home.fragments.SpecializationFragment;
  * Created by Aman on 14-Feb-18.
  */
 
-public class SectionPagerAdapter extends FragmentPagerAdapter{
+public class SectionPagerAdapter extends FragmentPagerAdapter {
     public SectionPagerAdapter(FragmentManager fm) {
         super(fm);
     }
